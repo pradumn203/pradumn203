@@ -1,20 +1,20 @@
 [![](https://img.shields.io/badge/LinkedIn-pradumn203-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/pradumn203/)
 [![](https://img.shields.io/badge/Gmail-mishrapradumn2014@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:mishrapradumn2014@gmail.com)
 [![](https://img.shields.io/badge/Gmail-1929299@kiit.ac.in-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:1929299@kiit.ac.in)
-[![](https://img.shields.io/badge/Facebook-Pradumn Mishra-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/pradumn.mishra.73/)
+
 
 ![](https://github.com/pradumn203/pradumn203/blob/master/carbon.png)
 
 ## About Me:
 #### Always curious to learn cutting edge technology. A bit enthusiast for web development. Competitive coding and motorsports boost my adrenaline. <br> 
-<!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) --> 
+<!-- [![HitCount](http://hits.dwyl.com/pradumn203/pradumn203/pradumn203.svg)](http://hits.dwyl.com/pradumn203/pradumn203/pradumn203) -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=pradumn203.pradumn203) --> 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
 
-<!-- ⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25) -->
+<!-- ⭐️ From [@pradumn203](https://github.com/pradumn203) -->
 
 
 
@@ -24,7 +24,7 @@ https://carbon.now.sh/ -->
 
 
 <!--
-**pradumn/ayushkumar-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pradumn203/pradumn203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
