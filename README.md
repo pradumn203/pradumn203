@@ -6,7 +6,7 @@
 ![](https://github.com/pradumn203/pradumn203/blob/master/carbon.png)
 
 ## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast for web development. Competitive coding and motorsports boost my adrenaline. <br> 
+#### Always curious to learn cutting edge technology. A bit enthusiast for Machine Learning. Competitive coding and Cricket boost my adrenaline. <br> 
 <!-- [![HitCount](http://hits.dwyl.com/pradumn203/pradumn203/pradumn203.svg)](http://hits.dwyl.com/pradumn203/pradumn203/pradumn203) -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=pradumn203.pradumn203) --> 
 
