@@ -3,6 +3,7 @@
 [![](https://img.shields.io/badge/Gmail-1929299@kiit.ac.in-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:1929299@kiit.ac.in)
 [![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pradumn.mishra.73/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pradumn.203/)
+[![Pradumn Mishra's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/pradumn203)
 
 
 ![](https://github.com/pradumn203/pradumn203/blob/master/carbon.png)
