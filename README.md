@@ -9,6 +9,8 @@
 ![](https://github.com/pradumn203/pradumn203/blob/master/carbon.png)
 
 ## About Me:
+#### ROS Developer and Robot Enthusiast!!.
+#### Working on Autonomous Vehicles Projects.
 #### Always curious to learn cutting edge technology. A bit enthusiast for Machine Learning. Competitive coding and Cricket boost my adrenaline. <br> 
 #### My skills include <br>
 ![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
