@@ -48,7 +48,7 @@ I'm open to feedback and suggestions!
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<!-- <a href="portfolio-link"><img src="https://img.shields.io/badge/-pradumn203.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://pradumn203.github.io/"><img src="https://img.shields.io/badge/-pradumn203-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/pradumn203"><img src="hhttps://img.shields.io/badge/LinkedIn-pradumn203-blue?logo=Linkedin&logoColor=blue&labelColor=black"/></a>
 <a href="mailto:mishrapradumn2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-mishrapradumn2014@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black"/></a>
 <a href="https://www.instagram.com/pradumn290203/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
