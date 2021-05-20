@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies and develop quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Communication Engg. at KIIT University, Bhubaneshwar.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning and Full Stack.\
-✍️ &nbsp;In my free time, I pursue watch anime.\
+✍️ &nbsp;In my free time, I watch anime.\
 💬 &nbsp;Feel free to reach out to me for any project contributions and Internships.\
 ✉️ &nbsp;You can shoot me an email at [mishrapradumn2014@gmail.com](mailto:mishrapradumn2014@gmail.com)! I'll try to respond as soon as I can.\
 I'm open to feedback and suggestions!
