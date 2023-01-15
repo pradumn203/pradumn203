@@ -1,5 +1,3 @@
-![Pradumn Mishra Cover](https://github.com/pradumn203/pradumn203/blob/master/assets/pradumn-cover.png)
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pradumn</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pradumn -->
