@@ -4,11 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Communication Engg. at KIIT University, Bhubaneshwar.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning and Full Stack.\
+💡 &nbsp;I like to explore developments happening around Generative AI.\
+🎓 &nbsp;I'm currently an AI Engineer at IBM.\
+🌱 &nbsp;I'm on track for research and development around NLP, Computer Vision and Generative AI.\
 ✍️ &nbsp;In my free time, I watch anime.\
-💬 &nbsp;Feel free to reach out to me for any project contributions and Internships.\
+💬 &nbsp;Feel free to reach out to me for any project contributions and Research Collaborations.\
 ✉️ &nbsp;You can shoot me an email at [mishrapradumn2014@gmail.com](mailto:mishrapradumn2014@gmail.com)! I'll try to respond as soon as I can.\
 I'm open to feedback and suggestions!
 
@@ -46,9 +46,8 @@ I'm open to feedback and suggestions!
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://pradumn203.github.io/"><img src="https://img.shields.io/badge/-pradumn203-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/pradumn203"><img src="hhttps://img.shields.io/badge/LinkedIn-pradumn203-blue?logo=Linkedin&logoColor=blue&labelColor=black"/></a>
 <a href="mailto:mishrapradumn2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-mishrapradumn2014@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black"/></a>
-<a href="https://www.instagram.com/pradumn290203/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/pradumn203/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/pradumn.mishra.73/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
