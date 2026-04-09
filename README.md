@@ -4,10 +4,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore developments happening around Generative AI.\
-🎓 &nbsp;I'm currently an AI Engineer at IBM.\
-🌱 &nbsp;I'm on track for research and development around NLP, Computer Vision and Generative AI.\
-✍️ &nbsp;In my free time, I watch anime.\
+💡 &nbsp;I like to explore developments happening around Machine Learning and Generative AI.\
+🎓 &nbsp;I'm currently a Master's student at The University of Sydney.\
+🌱 &nbsp;I'm on track for research and development around NLP, Machine Learning and Generative AI.\
+✍️ &nbsp;In my free time, I play PC Games.\
 💬 &nbsp;Feel free to reach out to me for any project contributions and Research Collaborations.\
 ✉️ &nbsp;You can shoot me an email at [mishrapradumn2014@gmail.com](mailto:mishrapradumn2014@gmail.com)! I'll try to respond as soon as I can.\
 I'm open to feedback and suggestions!
